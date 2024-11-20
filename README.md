@@ -49,4 +49,8 @@ This repository contains Power BI projects focused on analyzing and visualizing 
 # Impact: 
 - Recommendations to address hiring biases, promote equitable opportunities, and improve employee retention strategies.
 
+# Tools Used
+- Power BI Desktop for data visualization and modeling.
+- Microsoft Excel for data preprocessing.
+- Python for advanced data cleaning.
 
