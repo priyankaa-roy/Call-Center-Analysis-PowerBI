@@ -1,4 +1,4 @@
-# Power BI Project 
+# Power BI Projects
 This repository contains Power BI projects focused on analyzing and visualizing data for various business use cases. Each project demonstrates effective data modeling, insightful visualizations, and actionable recommendations for decision-making.
 
 # Projects Overview
